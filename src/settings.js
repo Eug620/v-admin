@@ -1,5 +1,12 @@
+/*
+ * @Author: yeyuhang
+ * @Date: 2020-10-28 14:12:30
+ * @LastEditTime: 2020-10-28 14:51:35
+ * @LastEditors: yeyuhang
+ * @Descripttion: 头部注释
+ */
 module.exports = {
-  title: 'Vue Antd Admin',
+  title: 'vAdmin',
 
   /**
    * @type {boolean} true | false
