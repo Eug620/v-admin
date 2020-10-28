@@ -1,9 +1,16 @@
+/*
+ * @Author: yeyuhang
+ * @Date: 2020-10-28 14:12:30
+ * @LastEditTime: 2020-10-28 14:42:49
+ * @LastEditors: yeyuhang
+ * @Descripttion: 头部注释
+ */
 'use strict'
 
 const port = process.env.port || process.env.npm_config_port || 9527 // dev port
 
 module.exports = {
-  publicPath: '/',
+  publicPath: './',
   outputDir: 'dist',
   assetsDir: 'static',
   lintOnSave: process.env.NODE_ENV === 'development',
