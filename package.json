@@ -2,6 +2,7 @@
   "name": "vue-admin",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eug620.github.io/v-admin",
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
